@@ -3,10 +3,10 @@
 A project of mine involving truck skins of Blue Archive related things
 
 # Credits:
-Hachi - School Logos [https://hachiiiiiiii.co]
-Chibi Shiroko - https://ph.pinterest.com/pin/92112754873467296/
-Serika Pout - https://ph.pinterest.com/pin/512284526384155356/
-Chibi Ayane - https://ph.pinterest.com/pin/128774870589635055/
+- Hachi - School Logos [https://hachiiiiiiii.co]
+- Chibi Shiroko - https://ph.pinterest.com/pin/92112754873467296/
+- Serika Pout - https://ph.pinterest.com/pin/512284526384155356/
+- Chibi Ayane - https://ph.pinterest.com/pin/128774870589635055/
 
 # Trucks Supported
 
