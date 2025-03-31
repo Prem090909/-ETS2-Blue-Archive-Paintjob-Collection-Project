@@ -14,6 +14,7 @@ A project of mine involving truck skins of Blue Archive related things
 - All SCS Trucks.
 - Volvo FH3 [Johnny244]
 - Scania P,G,R,S [Eugene]
+- Scania R 2009, G, R 4-Series [RJL]
 - Mercedes-Benz Actros MP2, MP3 [Dotec]
 
 # Trailers Supported
